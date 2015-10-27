@@ -1,0 +1,1 @@
+<div class="alert alert-success" role="alert">Waktu Keluar Anda : <?php echo $waktu_keluar; ?> WIB</div>
